@@ -1,0 +1,22 @@
+body {
+text-align: center;
+}
+
+.hero-image {
+    background-image: url(texture3.jpg);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.container {
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: -13px 11px 5px 0px rgba(185, 171, 171, 0.75);
+
+}
